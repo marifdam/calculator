@@ -1,24 +1,11 @@
-# calculator
-
-## Project setup
+# Calculator
+A simple calculator using Vue and Javascript 
+## How to install
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### How to run 
 ```
-npm run serve
+npm run dev
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
